@@ -25,6 +25,14 @@ header {
   background-color: skyblue;
 }
 
+.icon img {
+  /* border-radius: 20px; */
+  border-radius: 50%;
+  border-width: 4px;
+  border-style: solid;
+  border-color: white;
+}
+
 .info {
   background-color: tomato;
   margin-left: 32px;
